@@ -1,0 +1,13 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2016-06-28 00:28:22 --> Severity: Warning --> get_headers(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution /web/dist/php/application/helpers/common_helper.php 589
+ERROR - 2016-06-28 00:28:22 --> Severity: Warning --> get_headers(http://queqiaozl.b0.upaiyun.com/photo/2016_06_28/EJLwfdFc16201001201467044871.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution /web/dist/php/application/helpers/common_helper.php 589
+ERROR - 2016-06-28 16:54:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2016-06-28 19:42:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2016-06-28 20:17:34 --> Query error: Data too long for column 'sign' at row 1 - Invalid query: UPDATE `w_alipay_log` SET `buyer_email` = 'lidewen@supcon.com', `buyer_id` = '2088902795853745', `is_success` = NULL, `notify_id` = '3895309a8d41e2d7ec375704e3b5585lpm', `notify_type` = 'trade_status_sync', `payment_type` = '1', `trade_no` = '2016032921001004740288167856', `trade_status` = 'TRADE_FINISHED', `sign` = 'MnMmS8RaX002Cxk60OUt9wHx5gJrHdcM2sbzPEahVhaklQSJgoZI9xtbmsR+P5W0KObSdpzKScXdmNZ6kBQj+agUPkZJvV+j4Pq9OeBffRiaLB8mwhPhH+viGGZzJMSqnJAosPm2xRTl4tMrGBNfYJYfr4kqz2yP9i7OFCQ7ohU=', `sign_type` = 'RSA'
+WHERE `id` = '100129'
+ERROR - 2016-06-28 20:19:24 --> Query error: Data too long for column 'sign' at row 1 - Invalid query: UPDATE `w_alipay_log` SET `buyer_email` = 'lidewen@supcon.com', `buyer_id` = '2088902795853745', `is_success` = NULL, `notify_id` = '4c8792f6cf654dd3c9f2fb361a0269clpm', `notify_type` = 'trade_status_sync', `payment_type` = '1', `trade_no` = '2016032921001004740295252904', `trade_status` = 'TRADE_FINISHED', `sign` = 'lpfPJsYVb7AivwdwRbN3qF63XN2Cpvg6ONoTtT0UGK8AUWuUD5UG3shescuy8uAiyVwuijRZDMWZuhdm6v4Q4fMvQ195Tl2+xabBEdR0Q77sgl0eQeHntzcjrEuzNDbEOm2xXM2C4pbsd4JxTynhTQ3NzfKK/xNxKelb2BlCIb8=', `sign_type` = 'RSA'
+WHERE `id` = '100130'
+ERROR - 2016-06-28 20:30:29 --> Query error: Data too long for column 'sign' at row 1 - Invalid query: UPDATE `w_alipay_log` SET `buyer_email` = '15397081254', `buyer_id` = '2088702946502331', `is_success` = NULL, `notify_id` = 'ad0bab79c39a34b766178b1d660e3c3ijq', `notify_type` = 'trade_status_sync', `payment_type` = '1', `trade_no` = '2016032921001004330216835547', `trade_status` = 'TRADE_FINISHED', `sign` = 'IHZjKGaIAfLT2+0XB5sEOAQi7LnvvwZjap8XBcP1T5GUDLryM6Kmw4JZXNHLwU2aUrBmNjC7EglS5JjEHvLVkzVo+/Xguj7nd8rPTeofnRuLZin5rCauC8mbqLVl1rZFnp7mqVg56tGwwNFvCC2DYWombwrfReJ6UpYQxxpbyP4=', `sign_type` = 'RSA'
+WHERE `id` = '100131'
+ERROR - 2016-06-28 20:53:12 --> 404 Page Not Found: Robotstxt/index

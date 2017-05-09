@@ -1,0 +1,16 @@
+2017-03-14 07:12:14     http://localhost:8080/gene/php/Api
+2017-03-14 10:31:14     http://localhost:8888/gene/php/api?name=gene.sys.register
+2017-03-14 10:32:11     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=&r_password=
+2017-03-14 10:33:40     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:34:30     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:34:30     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:34:31     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:34:31     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:34:31     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:34:31     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:38:48     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:41:24     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&password=11&r_password=11
+2017-03-14 10:41:41     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&pwd=11&r_pwd=11
+2017-03-14 10:43:55     http://localhost:8888/gene/php/api?name=gene.sys.register&mobile=1875&pwd=11&r_pwd=11
+2017-03-14 10:44:12     http://localhost:8888/gene/php/api?name=gene.sys.login&mobile=1875&pwd=11
+2017-03-14 10:48:33     http://localhost:8888/gene/php/api?name=gene.sys.login&mobile=1875&pwd=11
